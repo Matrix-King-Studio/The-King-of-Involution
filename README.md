@@ -2,6 +2,20 @@
 
 每周分享，每周学习。
 
+## 卷王排行榜
+
+| 人   | 分享次数 |
+|-----|------|
+| 刘兆峰 |  ⭐⭐    |
+| 杨靖智 |      |
+| 张顺宝 |  ⭐⭐    |
+| 王冰琪 |  ⭐    |
+| 龙卫平 |      |
+| 吴晨帆 |      |
+| 毛远欣 |      |
+
+## 分享记录
+
 | 日期         | 分享人 | 主题|  PPT | 视频 |
 |------------|-----|-----|----|----|
 | 2024-01-28 | 张顺宝 | RAG 方法介绍 | [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240128-%E5%BC%A0%E9%A1%BA%E5%AE%9D-%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90%E7%BB%BC%E8%BF%B0.pptx)   |  [链接](https://www.bilibili.com/video/BV1f64y1w7C6/)  |
