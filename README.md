@@ -29,6 +29,13 @@
 | 2024-03-24 | 毛远欣 | CLIP+CLIPDraw+Align before Fuse+BLIP+CoCa |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240324-%E6%AF%9B%E8%BF%9C%E6%AC%A3-%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B.pptx) |  [链接](https://www.bilibili.com/video/BV16H4y1p7Jv/)  |
 | 2024-03-31 | 杨靖智 | 医学报告生成 |   |   |
 | 2024-04-07 | 吴晨帆 | GPT系列论文分享 |  [链接]()  |  [链接]()   |
-| 2024-04-14 | 龙卫平 |  |  [链接]()  |  [链接]()   |
+| 2024-04-14 | 龙卫平 | UFO：微软打造的全新智能操作系统 |  [链接]()  |  [链接]()   |
 | 2024-04-21 | 王冰琪 |  |  [链接]()  |  [链接]()   |
 | 2024-04-28 | 毛远欣 | ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation |  [链接]()  |  [链接]()   |
+
+## 候选题目
+
+| 选题   | 论文 | 参考资料 | 是否已分享 |
+|-----|------|------|------|
+| UFO：微软打造的全新智能操作系统 |  [UFO: A UI-Focused Agent for Windows OS Interaction](https://arxiv.org/abs/2402.07939)    |   [[Github]UFO UFO Image: A UI-Focused Agent for Windows OS Interaction](https://github.com/microsoft/UFO)、[下一代Windows系统曝光：基于GPT-4V，Agent跨应用调度，代号UFO](https://zhuanlan.zhihu.com/p/682332065)、[Windows Agent UFO 横空出世，微软欲打造全新的智能操作系统体验](https://zhuanlan.zhihu.com/p/683521529)、[论文分享：UFO: A UI-Focused Agent for Windows OS Interaction](https://zhuanlan.zhihu.com/p/685614612)   |      |
+| DPO：直接偏好优化 |  [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)    |   [DPO: Direct Preference Optimization 论文解读及代码实践](https://zhuanlan.zhihu.com/p/642569664)、[[论文笔记]DPO：Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://zhuanlan.zhihu.com/p/653975451)、[直接偏好优化算法（Direct Preference Optimization，DPO）](https://blog.csdn.net/chacha_/article/details/134527000)、[DPO: Direct Preference Optimization 直接偏好优化（学习笔记）](https://www.cnblogs.com/lemonzhang/p/17910358.html)、[每日论文速递 [NeurIPS'23 Oral] DPO：Language Model 是一个 Reward Model](https://cloud.tencent.com/developer/article/2400696)、[RLHF的替代之DPO原理解析：从RLHF、Claude的RAILF到DPO、Zephyr](https://www.163.com/dy/article/INKV0ETR05380EIV.html)   |      |
