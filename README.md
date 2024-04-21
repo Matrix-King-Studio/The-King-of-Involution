@@ -11,10 +11,10 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 成员   | 分享次数 | 缺勤次数 |
 |-----|------|------|
 | 刘兆峰 |  ⭐⭐    |  |
-| 杨靖智 |  ⭐    | ❌ |
+| 杨靖智 |  ⭐    |  |
 | 张顺宝 |  ⭐⭐    |  |
 | 王冰琪 |  ⭐    |  |
-| 毛远欣 |  ⭐    |  |
+| 毛远欣 |  ⭐⭐    |  |
 | 吴晨帆 |  ⭐    |  |
 | 龙卫平 |  ⭐    |  |
 
@@ -24,7 +24,7 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 
 **要求**：
 
-1. 每个人至少提一个问题；
+1. 每个人至少向分享人提一个问题，而分享人也要回问一个问题；
 2. 会上没有解答出来的问题，会后学习并整理，发到群里。
 
 ## 分享记录
@@ -39,7 +39,7 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 2024-03-31 | 杨靖智 | 医学报告生成 |   |   |
 | 2024-04-07 | 吴晨帆 | GPT系列论文分享 |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240407-吴晨帆-全新大语言模型驱动的agent.pptx)  |  [链接](https://www.bilibili.com/video/BV1HK421a7Ni/)   |
 | 2024-04-16 | 龙卫平 | UFO：微软打造的全新智能操作系统 |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240416-龙卫平-UFO论文分享.pptx)  |  [链接](https://www.bilibili.com/video/BV1Km421j7wU/)   |
-| 2024-04-21 | 毛远欣 | ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation |  [链接]()  |  [链接]()   |
+| 2024-04-21 | 毛远欣 | ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240421-毛远欣-ASSISTGUI.pptx)  |  [链接](https://www.bilibili.com/video/BV1sE421K7pN/)   |
 | 2024-04-28 | 王冰琪 | 从传统RAG到GraphRAG |  [链接]()  |  [链接]()   |
 | 2024-05-05 | 刘兆峰 |  |  [链接]()  |  [链接]()   |
 | 2024-05-12 | 吴晨帆 |  |  [链接]()  |  [链接]()   |
