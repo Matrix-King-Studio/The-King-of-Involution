@@ -37,7 +37,7 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 2024-03-10 | 刘兆峰 | 大模型的分布式训练 |  [链接](https://alex007.blog.csdn.net/article/details/126475071) |  [链接](https://www.bilibili.com/video/BV15P41157sT/)  |
 | 2024-03-24 | 毛远欣 | CLIP+CLIPDraw+Align before Fuse+BLIP+CoCa |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240324-%E6%AF%9B%E8%BF%9C%E6%AC%A3-%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B.pptx) |  [链接](https://www.bilibili.com/video/BV16H4y1p7Jv/)  |
 | 2024-03-31 | 杨靖智 | 医学报告生成 |   |   |
-| 2024-04-07 | 吴晨帆 | GPT系列论文分享 |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240407-吴晨帆-全新大语言模型驱动的agent.pptx)  |  [链接](https://www.bilibili.com/video/BV1HK421a7Ni/)   |
+| 2024-04-07 | 吴晨帆 | 大语言模型驱动Agent |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240407-吴晨帆-全新大语言模型驱动的agent.pptx)  |  [链接](https://www.bilibili.com/video/BV1HK421a7Ni/)   |
 | 2024-04-16 | 龙卫平 | UFO：微软打造的全新智能操作系统 |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240416-龙卫平-UFO论文分享.pptx)  |  [链接](https://www.bilibili.com/video/BV1Km421j7wU/)   |
 | 2024-04-21 | 毛远欣 | ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240421-毛远欣-ASSISTGUI.pptx)  |  [链接](https://www.bilibili.com/video/BV1sE421K7pN/)   |
 | 2024-04-28 | 王冰琪 | 从传统RAG到GraphRAG |  [链接]()  |  [链接]()   |
