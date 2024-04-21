@@ -6,6 +6,8 @@
 
 PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 
+读论文的模板：[Paper Read Template](https://glass-croissant-6e7.notion.site/Paper-Read-Template-8aa0e7fc993a459a990146581c54b0db?pvs=4)
+
 ## 卷王排行榜
 
 | 成员   | 分享次数 | 缺勤次数 |
