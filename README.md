@@ -13,12 +13,12 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 成员   | 分享次数 | 缺勤次数 |
 |-----|------|------|
 | 刘兆峰 |  ⭐⭐    |  |
-| 杨靖智 |  ⭐    |  |
 | 张顺宝 |  ⭐⭐    |  |
-| 王冰琪 |  ⭐    |  |
+| 王冰琪 |  ⭐⭐    |  |
 | 毛远欣 |  ⭐⭐    |  |
 | 吴晨帆 |  ⭐    |  |
 | 龙卫平 |  ⭐    |  |
+| 杨靖智 |  ⭐    |  |
 
 **分享顺序**：按照上表顺序进行，每一轮视为一个周期，一个周期完成后再从头开始。
 
@@ -42,9 +42,9 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 2024-04-07 | 吴晨帆 | 大语言模型驱动Agent |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240407-吴晨帆-全新大语言模型驱动的agent.pptx)  |  [链接](https://www.bilibili.com/video/BV1HK421a7Ni/)   |
 | 2024-04-16 | 龙卫平 | UFO：微软打造的全新智能操作系统 |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240416-龙卫平-UFO论文分享.pptx)  |  [链接](https://www.bilibili.com/video/BV1Km421j7wU/)   |
 | 2024-04-21 | 毛远欣 | ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240421-毛远欣-ASSISTGUI.pptx)  |  [链接](https://www.bilibili.com/video/BV1sE421K7pN/)   |
-| 2024-04-28 | 王冰琪 | 从传统RAG到GraphRAG |  [链接]()  |  [链接]()   |
-| 2024-05-05 | 刘兆峰 |  |  [链接]()  |  [链接]()   |
-| 2024-05-12 | 吴晨帆 |  |  [链接]()  |  [链接]()   |
+| 2024-04-28 | 王冰琪 | 从传统RAG到GraphRAG |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240428-王冰琪-KG-RAG.pptx)  |  [链接](https://www.bilibili.com/video/BV1bm41117XN/)   |
+| 2024-05-05 | 刘兆峰 | 开源大模型之光：LLaMA |  [链接]()  |  [链接]()   |
+| 2024-05-12 | 吴晨帆 | AgentVerse |  [链接]()  |  [链接]()   |
 | 2024-05-19 | 张顺宝 |  |  [链接]()  |  [链接]()   |
 | 2024-05-26 | 龙卫平 |  |  [链接]()  |  [链接]()   |
 | 2024-06-02 | 毛远欣 |  |  [链接]()  |  [链接]()   |
@@ -60,5 +60,5 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | JARVIS：微软开源的探索通用人工智能 (AGI) 工具  | Agent | [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580) | [[Github]JARVIS](https://github.com/microsoft/JARVIS)、 |  |
 | LLM 的自动化任务完成评测 | Benchmark | [TaskBench: Benchmarking Large Language Models for Task Automation](https://arxiv.org/abs/2311.18760) | [[Github]TaskBench](https://github.com/microsoft/JARVIS/tree/main/taskbench)、 |  |
 | 通过工具说明增强基于 LLM 的 Agent | Agent | [EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction](https://arxiv.org/abs/2401.06201) | [[Github]EasyTool](https://github.com/microsoft/JARVIS/tree/main/easytool)、 |  |
-|  |  | []() |  |  |
+| 开源大模型之光：LLaMA | LLM | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971),[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) | [Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/),[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/),[](), |  |
 |  |  | []() |  |  |
