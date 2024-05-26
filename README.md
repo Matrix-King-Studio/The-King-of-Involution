@@ -14,9 +14,9 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 |-----|------|------|
 | 刘兆峰 |  ⭐⭐⭐    |  |
 | 张顺宝 |  ⭐⭐    |  |
-| 王冰琪 |  ⭐⭐    | × |
+| 王冰琪 |  ⭐⭐    |  |
 | 毛远欣 |  ⭐⭐    |  |
-| 吴晨帆 |  ⭐    |  |
+| 吴晨帆 |  ⭐⭐    |  |
 | 龙卫平 |  ⭐    |  |
 | 杨靖智 |  ⭐    |  |
 
@@ -33,27 +33,27 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 
 | 日期         | 分享人 | 主题|  PPT | 视频 |
 |------------|-----|-----|----|----|
-| 2024-01-28 | 张顺宝 | RAG 方法介绍 | [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240128-%E5%BC%A0%E9%A1%BA%E5%AE%9D-%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90%E7%BB%BC%E8%BF%B0.pptx)   |  [链接](https://www.bilibili.com/video/BV1f64y1w7C6/)  |
-| 2024-02-04 | 王冰琪 | FinGLM 冠军队伍方案分享 |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240204-%E7%8E%8B%E5%86%B0%E7%90%AA-ChatGLM%E9%87%91%E8%9E%8D%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A6%92%E5%A4%B4%E7%A7%91%E6%8A%80%E5%AD%A6%E4%B9%A0.pptx) |  [链接](https://www.bilibili.com/video/BV1nF4m1M7QX/)  |
-| 2024-02-27 | 刘兆峰 | 智谱 AI 系列产品 |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240227-%E5%88%98%E5%85%86%E5%B3%B0-%E4%BD%9C%E4%B8%BA%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B9%8B%E5%85%89%E7%9A%84%E6%99%BA%E8%B0%B1AI%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%8E%A8%E5%87%BA%E4%BA%86%E5%A4%9A%E5%B0%91%E6%A8%A1%E5%9E%8B%EF%BC%9F.pdf) |  [链接](https://www.bilibili.com/video/BV14J4m1e7UJ/)  |
-| 2024-03-10 | 刘兆峰 | 大模型的分布式训练 |  [链接](https://alex007.blog.csdn.net/article/details/126475071) |  [链接](https://www.bilibili.com/video/BV15P41157sT/)  |
-| 2024-03-24 | 毛远欣 | CLIP+CLIPDraw+Align before Fuse+BLIP+CoCa |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240324-%E6%AF%9B%E8%BF%9C%E6%AC%A3-%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B.pptx) |  [链接](https://www.bilibili.com/video/BV16H4y1p7Jv/)  |
+| 2024-01-28 | 张顺宝 | RAG 方法介绍 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240128-%E5%BC%A0%E9%A1%BA%E5%AE%9D-%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90%E7%BB%BC%E8%BF%B0.pptx)   |  [视频链接](https://www.bilibili.com/video/BV1f64y1w7C6/)  |
+| 2024-02-04 | 王冰琪 | FinGLM 冠军队伍方案分享 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240204-%E7%8E%8B%E5%86%B0%E7%90%AA-ChatGLM%E9%87%91%E8%9E%8D%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A6%92%E5%A4%B4%E7%A7%91%E6%8A%80%E5%AD%A6%E4%B9%A0.pptx) |  [视频链接](https://www.bilibili.com/video/BV1nF4m1M7QX/)  |
+| 2024-02-27 | 刘兆峰 | 智谱 AI 系列产品 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240227-%E5%88%98%E5%85%86%E5%B3%B0-%E4%BD%9C%E4%B8%BA%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B9%8B%E5%85%89%E7%9A%84%E6%99%BA%E8%B0%B1AI%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%8E%A8%E5%87%BA%E4%BA%86%E5%A4%9A%E5%B0%91%E6%A8%A1%E5%9E%8B%EF%BC%9F.pdf) |  [视频链接](https://www.bilibili.com/video/BV14J4m1e7UJ/)  |
+| 2024-03-10 | 刘兆峰 | 大模型的分布式训练 |  [PPT链接](https://alex007.blog.csdn.net/article/details/126475071) |  [视频链接](https://www.bilibili.com/video/BV15P41157sT/)  |
+| 2024-03-24 | 毛远欣 | CLIP+CLIPDraw+Align before Fuse+BLIP+CoCa |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240324-%E6%AF%9B%E8%BF%9C%E6%AC%A3-%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B.pptx) |  [视频链接](https://www.bilibili.com/video/BV16H4y1p7Jv/)  |
 | 2024-03-31 | 杨靖智 | 医学报告生成 |   |   |
-| 2024-04-07 | 吴晨帆 | 大语言模型驱动Agent |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240407-吴晨帆-全新大语言模型驱动的agent.pptx)  |  [链接](https://www.bilibili.com/video/BV1HK421a7Ni/)   |
-| 2024-04-16 | 龙卫平 | UFO：微软打造的全新智能操作系统 |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240416-龙卫平-UFO论文分享.pptx)  |  [链接](https://www.bilibili.com/video/BV1Km421j7wU/)   |
-| 2024-04-21 | 毛远欣 | ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240421-毛远欣-ASSISTGUI.pptx)  |  [链接](https://www.bilibili.com/video/BV1sE421K7pN/)   |
-| 2024-04-28 | 王冰琪 | 从传统RAG到GraphRAG |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240428-王冰琪-KG-RAG.pptx)  |  [链接](https://www.bilibili.com/video/BV1bm41117XN/)   |
-| 2024-05-19 | 刘兆峰 | 开源大模型之光：LLaMA |  [链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/blob/master/AI/20240519-刘兆峰-开源大模型之光：LLaMA.pptx)  |  [链接](https://www.bilibili.com/video/BV1nw4m1D76P/)   |
-| 2024-05-26 | 吴晨帆 | AgentVerse |  [链接]()  |  [链接]()   |
-| 2024-06-02 | 张顺宝 | CCF 国际AIOps挑战赛 |  [链接]()  |  [链接]()   |
-| 2024-06-09 | 王冰琪 | CCKS2024——数字金融领域大模型能力评测 |  [链接]()  |  [链接]()   |
-| 2024-06-16 | 毛远欣 |  |  [链接]()  |  [链接]()   |
-| 2024-06-23 | 龙卫平 |  |  [链接]()  |  [链接]()   |
-| 2024-06-30 | 吴晨帆 | CCKS2024——人物知识图谱复杂问答推理评测 & 开放领域知识图谱问答评测 |  [链接]()  |  [链接]()   |
-| 2024-07-07 | 杨靖智 |  |  [链接]()  |  [链接]()   |
-| 2024-07-14 | 刘兆峰 |  |  [链接]()  |  [链接]()   |
-| 2024-07-21 | 张顺宝 |  |  [链接]()  |  [链接]()   |
-| 2024-07-28 | 王冰琪 |  |  [链接]()  |  [链接]()   |
+| 2024-04-07 | 吴晨帆 | 大语言模型驱动Agent |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240407-吴晨帆-全新大语言模型驱动的agent.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1HK421a7Ni/)   |
+| 2024-04-16 | 龙卫平 | UFO：微软打造的全新智能操作系统 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240416-龙卫平-UFO论文分享.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1Km421j7wU/)   |
+| 2024-04-21 | 毛远欣 | ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240421-毛远欣-ASSISTGUI.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1sE421K7pN/)   |
+| 2024-04-28 | 王冰琪 | 从传统RAG到GraphRAG |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240428-王冰琪-KG-RAG.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1bm41117XN/)   |
+| 2024-05-19 | 刘兆峰 | 开源大模型之光：LLaMA |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240519-刘兆峰-开源大模型之光：LLaMA.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1nw4m1D76P/)   |
+| 2024-05-26 | 吴晨帆 | MapCoder: Multi-Agent Code Generation for Competitive Problem Solving |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240526-吴晨帆-MapCoder.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1em421T7w3/)   |
+| 2024-06-02 | 张顺宝 | CCF 国际AIOps挑战赛 |  [PPT链接]()  |  [视频链接]()   |
+| 2024-06-09 | 王冰琪 | CCKS2024——数字金融领域大模型能力评测 |  [PPT链接]()  |  [视频链接]()   |
+| 2024-06-16 | 毛远欣 | CCKS2024——大模型零样本知识抽取评测 |  [PPT链接]()  |  [视频链接]()   |
+| 2024-06-23 | 龙卫平 |  |  [PPT链接]()  |  [视频链接]()   |
+| 2024-06-30 | 吴晨帆 | CCKS2024——人物知识图谱复杂问答推理评测 & 开放领域知识图谱问答评测 |  [PPT链接]()  |  [视频链接]()   |
+| 2024-07-07 | 杨靖智 |  |  [PPT链接]()  |  [视频链接]()   |
+| 2024-07-14 | 刘兆峰 |  |  [PPT链接]()  |  [视频链接]()   |
+| 2024-07-21 | 张顺宝 |  |  [PPT链接]()  |  [视频链接]()   |
+| 2024-07-28 | 王冰琪 |  |  [PPT链接]()  |  [视频链接]()   |
 
 ## 候选题目
 
