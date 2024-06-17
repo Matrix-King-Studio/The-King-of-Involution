@@ -46,7 +46,7 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 2024-04-28 | 王冰琪 | 从传统RAG到GraphRAG |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240428-王冰琪-KG-RAG.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1bm41117XN/)   |
 | 2024-05-19 | 刘兆峰 | 开源大模型之光：LLaMA |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240519-刘兆峰-开源大模型之光：LLaMA.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1nw4m1D76P/)   |
 | 2024-05-26 | 吴晨帆 | MapCoder: Multi-Agent Code Generation for Competitive Problem Solving |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240526-吴晨帆-MapCoder.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1em421T7w3/)   |
-| 2024-06-02 | 张顺宝 | 2024 CCF 国际AIOps挑战赛介绍 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240602-AIOps挑战赛介绍.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1Jy411b78J/)   |
+| 2024-06-02 | 张顺宝 | 2024 CCF 国际AIOps挑战赛介绍 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240602-张顺宝-AIOps挑战赛介绍.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1Jy411b78J/)   |
 | 2024-06-10 | 王冰琪 | CCKS2024——数字金融领域大模型能力评测 |  [PPT链接]()  |  [视频链接](https://www.bilibili.com/video/BV1e6421f7gP/)   |
 | 2024-06-16 | 吴晨帆 | CCKS2024——人物知识图谱复杂问答推理评测 |  [PPT链接]()  |  [视频链接]()   |
 | 2024-06-23 | 龙卫平 | CCKS2024——TCMBench中医知识理解与推理能力评测 |  [PPT链接]()  |  [视频链接]()   |
