@@ -50,7 +50,7 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 2024-05-26 | 吴晨帆 | MapCoder: Multi-Agent Code Generation for Competitive Problem Solving |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240526-吴晨帆-MapCoder.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1em421T7w3/)   |
 | 2024-06-02 | 张顺宝 | 2024 CCF 国际AIOps挑战赛介绍 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240602-张顺宝-AIOps挑战赛介绍.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1Jy411b78J/)   |
 | 2024-06-10 | 王冰琪 | CCKS2024——数字金融领域大模型能力评测 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240610-王冰琪-CCKS2024——数字金融领域大模型能力评测.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1e6421f7gP/)   |
-| 2024-06-16 | 吴晨帆 | CCKS2024——人物知识图谱复杂问答推理评测 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240617-吴晨帆-CCKS2024——人物复杂知识图谱.pptx)  |  [视频链接](https://www.bilibili.com/video/BV114421Q7sg/)   |
+| 2024-06-17 | 吴晨帆 | CCKS2024——人物知识图谱复杂问答推理评测 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240617-吴晨帆-CCKS2024——人物复杂知识图谱.pptx)  |  [视频链接](https://www.bilibili.com/video/BV114421Q7sg/)   |
 | 2024-06-23 | 龙卫平 | CCKS2024——TCMBench中医知识理解与推理能力评测 |  [PPT链接]()  |  [视频链接]()   |
 | 2024-06-30 | 才  佳 | AFAC2024——AIGC金融多模态研究报告智能生成 |  [PPT链接]()  |  [视频链接]()   |
 | 2024-07-07 | 杨靖智 | GLM法律行业大模型挑战赛 |  [PPT链接]()  |  [视频链接]()   |
