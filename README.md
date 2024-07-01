@@ -30,7 +30,7 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 **要求**：
 
 1. 提前一周准备好PPT，可以发给刘兆峰看一下，然后针对性修改；
-2. 每个人至少向分享人提一个问题，而分享人也要回问一个问题；
+2. 每个人至少向分享人提一个问题，如果不问题，分享人可以反问一个问题；
 3. 会上没有解答出来的问题，会后学习并整理，发到群里。
 
 ## 分享记录
@@ -55,10 +55,16 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 2024-06-23 | 龙卫平 | CCKS2024——TCMBench中医知识理解与推理能力评测 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240624-龙卫平-CCKS2024——TCMBench中医知识理解与推理能力评测学术竞赛分享.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1eE421N79W/)   |
 | 2024-06-30 | 才  佳 | FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240630-才佳-FinRobots.pptx)  |  [视频链接](https://www.bilibili.com/video/BV18J4m1T76P/)   |
 | 2024-07-07 | 杨靖智 | GLM法律行业大模型挑战赛 |  [PPT链接]()  |  [视频链接]()   |
-|  | 毛远欣 | CCKS2024——大模型零样本知识抽取评测 |  [PPT链接]()  |  [视频链接]()   |
-|  | 刘兆峰 |  |  [PPT链接]()  |  [视频链接]()   |
-|  | 张顺宝 |  |  [PPT链接]()  |  [视频链接]()   |
-|  | 王冰琪 |  |  [PPT链接]()  |  [视频链接]()   |
+| 2024-07-14 | 毛远欣 | 通过工具说明增强基于 LLM 的 Agent |  [PPT链接]()  |  [视频链接]()   |
+| 2024-07-21 | 刘兆峰 | AFAC2024挑战组-赛题四:金融规则长文本中的矛盾识别与漏洞发现 |  [PPT链接]()  |  [视频链接]()   |
+| 2024-07-28 | 张顺宝 |  |  [PPT链接]()  |  [视频链接]()   |
+| 2024-08-04 | 王冰琪 |  |  [PPT链接]()  |  [视频链接]()   |
+| 2024-08-11 | 龙卫平 |  |  [PPT链接]()  |  [视频链接]()   |
+| 2024-08-18 | 才  佳 | FinGPT: Open-Source Financial Large Language Models |  [PPT链接]()  |  [视频链接]()   |
+| 2024-08-25 | 杨靖智 |  |  [PPT链接]()  |  [视频链接]()   |
+|  | 才  佳 | FinML: A Practical Machine Learning Framework for Dynamic Stock Selection |  [PPT链接]()  |  [视频链接]()   |
+|  | 才  佳 | FinRL: Financial Reinforcement Learning |  [PPT链接]()  |  [视频链接]()   |
+|  |  |  |  [PPT链接]()  |  [视频链接]()   |
 |  |  |  |  [PPT链接]()  |  [视频链接]()   |
 
 ## 候选题目
@@ -72,6 +78,10 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 通过工具说明增强基于 LLM 的 Agent | Agent | [EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction](https://arxiv.org/abs/2401.06201) | [[Github]EasyTool](https://github.com/microsoft/JARVIS/tree/main/easytool)、 |  |
 | 开源大模型之光：LLaMA | LLM | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971),[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) | [Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/),[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/) | ✅ |
 | FinGPT | LLM、金融 | [FinGPT: Open-Source Financial Large Language Models](https://github.com/AI4Finance-Foundation/FinGPT) |  |  |
+| FinML | LLM、金融 | [FinML: A Practical Machine Learning Framework for Dynamic Stock Selection](https://github.com/AI4Finance-Foundation/FinML) |  |  |
 | FinRL | 强化学习 | [FinRL: Financial Reinforcement Learning](https://github.com/AI4Finance-Foundation/FinRL) |  |  |
-| FinRobot | Agent，RAG | [FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models](https://github.com/AI4Finance-Foundation/FinRobot) |  |  |
+| FinRobot | Agent，RAG | [FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models](https://github.com/AI4Finance-Foundation/FinRobot) |  | ✅ |
+|  |  | []() |  |  |
+|  |  | []() |  |  |
+|  |  | []() |  |  |
 |  |  | []() |  |  |
