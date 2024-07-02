@@ -22,6 +22,7 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 龙卫平 |  ⭐⭐    |  |
 | 杨靖智 |  ⭐    |  |
 | 才  佳 |  ⭐    |  |
+| 夏志鸿 |      |  |
 
 **分享顺序**：按照上表顺序进行，每一轮视为一个周期，一个周期完成后再从头开始。
 
@@ -56,7 +57,7 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 2024-06-30 | 才  佳 | FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240630-才佳-FinRobots.pptx)  |  [视频链接](https://www.bilibili.com/video/BV18J4m1T76P/)   |
 | 2024-07-07 | 杨靖智 | GLM法律行业大模型挑战赛 |  [PPT链接]()  |  [视频链接]()   |
 | 2024-07-14 | 毛远欣 | 通过工具说明增强基于 LLM 的 Agent |  [PPT链接]()  |  [视频链接]()   |
-| 2024-07-21 | 刘兆峰 | AFAC2024挑战组-赛题四:金融规则长文本中的矛盾识别与漏洞发现 |  [PPT链接]()  |  [视频链接]()   |
+| 2024-07-21 | 夏志鸿 | GraphRAG |  [PPT链接]()  |  [视频链接]()   |
 | 2024-07-28 | 张顺宝 |  |  [PPT链接]()  |  [视频链接]()   |
 | 2024-08-04 | 王冰琪 |  |  [PPT链接]()  |  [视频链接]()   |
 | 2024-08-11 | 龙卫平 |  |  [PPT链接]()  |  [视频链接]()   |
