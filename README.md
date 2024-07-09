@@ -20,7 +20,7 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 毛远欣 |  ⭐⭐    |  |
 | 吴晨帆 |  ⭐⭐⭐    |  |
 | 龙卫平 |  ⭐⭐    |  |
-| 杨靖智 |  ⭐    |  |
+| 杨靖智 |  ⭐⭐    |  |
 | 才  佳 |  ⭐    |  |
 
 **分享顺序**：按照上表顺序进行，每一轮视为一个周期，一个周期完成后再从头开始。
@@ -54,9 +54,9 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 2024-06-17 | 吴晨帆 | CCKS2024——人物知识图谱复杂问答推理评测 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240617-吴晨帆-CCKS2024——人物复杂知识图谱.pptx)  |  [视频链接](https://www.bilibili.com/video/BV114421Q7sg/)   |
 | 2024-06-23 | 龙卫平 | CCKS2024——TCMBench中医知识理解与推理能力评测 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240624-龙卫平-CCKS2024——TCMBench中医知识理解与推理能力评测学术竞赛分享.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1eE421N79W/)   |
 | 2024-06-30 | 才  佳 | FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240630-才佳-FinRobots.pptx)  |  [视频链接](https://www.bilibili.com/video/BV18J4m1T76P/)   |
-| 2024-07-07 | 杨靖智 | GLM法律行业大模型挑战赛 |  [PPT链接]()  |  [视频链接]()   |
+| 2024-07-07 | 杨靖智 | GLM法律行业大模型挑战赛 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240708-杨靖智-GLM法律行业大模型挑战赛.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1cb421H7Vb/)   |
 | 2024-07-14 | 毛远欣 | 通过工具说明增强基于 LLM 的 Agent |  [PPT链接]()  |  [视频链接]()   |
-| 2024-07-21 | 刘兆峰 | AFAC2024挑战组-赛题四:金融规则长文本中的矛盾识别与漏洞发现 |  [PPT链接]()  |  [视频链接]()   |
+| 2024-07-21 | 张顺宝 | Retrieval Augmented Generation with Citations |  [PPT链接]()  |  [视频链接]()   |
 | 2024-07-28 | 张顺宝 |  |  [PPT链接]()  |  [视频链接]()   |
 | 2024-08-04 | 王冰琪 |  |  [PPT链接]()  |  [视频链接]()   |
 | 2024-08-11 | 龙卫平 |  |  [PPT链接]()  |  [视频链接]()   |
@@ -64,6 +64,7 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 2024-08-25 | 杨靖智 |  |  [PPT链接]()  |  [视频链接]()   |
 |  | 才  佳 | FinML: A Practical Machine Learning Framework for Dynamic Stock Selection |  [PPT链接]()  |  [视频链接]()   |
 |  | 才  佳 | FinRL: Financial Reinforcement Learning |  [PPT链接]()  |  [视频链接]()   |
+|  | 刘兆峰 | AFAC2024挑战组-赛题四:金融规则长文本中的矛盾识别与漏洞发现 |  [PPT链接]()  |  [视频链接]()   |
 |  |  |  |  [PPT链接]()  |  [视频链接]()   |
 |  |  |  |  [PPT链接]()  |  [视频链接]()   |
 
