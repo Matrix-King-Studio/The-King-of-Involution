@@ -60,9 +60,9 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 |  |  |  |  [PPT链接]()  |  [视频链接]()   |
 | 2024-07-21 | 张顺宝 | Retrieval Augmented Generation with Citations |  [PPT链接]()  |  [视频链接]()   |
 | 2024-07-21 | 夏志鸿 | GraphRAG |  [PPT链接]()  |  [视频链接]()   |
-| 2024-08-04 | 王冰琪 |  |  [PPT链接]()  |  [视频链接]()   |
+| 2024-08-04 | 才  佳 | FinRL: Financial Reinforcement Learning |  [PPT链接]()  |  [视频链接]()   |
 | 2024-08-11 | 龙卫平 |  |  [PPT链接]()  |  [视频链接]()   |
-| 2024-08-18 | 才  佳 | FinGPT: Open-Source Financial Large Language Models |  [PPT链接]()  |  [视频链接]()   |
+| 2024-08-18 | 王冰琪 | FinGPT: Open-Source Financial Large Language Models |  [PPT链接]()  |  [视频链接]()   |
 | 2024-08-25 | 杨靖智 |  |  [PPT链接]()  |  [视频链接]()   |
 |  | 才  佳 | FinML: A Practical Machine Learning Framework for Dynamic Stock Selection |  [PPT链接]()  |  [视频链接]()   |
 |  | 才  佳 | FinRL: Financial Reinforcement Learning |  [PPT链接]()  |  [视频链接]()   |
