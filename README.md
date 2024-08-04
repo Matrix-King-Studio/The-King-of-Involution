@@ -16,13 +16,13 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 |-----|------|------|
 | 刘兆峰 |  ⭐⭐⭐    |  |
 | 张顺宝 |  ⭐⭐⭐⭐    |  |
-| 王冰琪 |  ⭐⭐⭐    | ❌ |
+| 王冰琪 |  ⭐⭐⭐    |  |
 | 毛远欣 |  ⭐⭐⭐    |  |
 | 吴晨帆 |  ⭐⭐⭐    |  |
 | 龙卫平 |  ⭐⭐    |  |
 | 杨靖智 |  ⭐⭐    |  |
-| 才  佳 |  ⭐    |  |
-| 夏志鸿 |      | ❌❌ |
+| 才  佳 |  ⭐⭐    |  |
+| 夏志鸿 |     |  |
 
 **分享顺序**：按照上表顺序进行，每一轮视为一个周期，一个周期完成后再从头开始。
 
@@ -58,11 +58,13 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 2024-07-07 | 杨靖智 | GLM法律行业大模型挑战赛 |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240708-杨靖智-GLM法律行业大模型挑战赛.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1cb421H7Vb/)   |
 | 2024-07-14 | 毛远欣 | 通过工具说明增强基于 LLM 的 Agent |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240714-毛远欣-EASYTOOL.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1XW421R73p/)   |
 | 2024-07-28 | 张顺宝 | Retrieval Augmented Generation with Citations |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240728-张顺宝-RAG生成引用信息调研.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1R4421U76D/)   |
-| 2024-08-04 | 才  佳 | FinRL: Financial Reinforcement Learning |  [PPT链接]()  |  [视频链接]()   |
-| 2024-07-21 | 夏志鸿 | GraphRAG |  [PPT链接]()  |  [视频链接]()   |
-| 2024-08-11 | 龙卫平 |  |  [PPT链接]()  |  [视频链接]()   |
+| 2024-08-04 | 才  佳 | DeepScalper: A Risk-Aware Reinforcement Learning Framework to Capture Fleeting Intraday Trading Opportunities |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240804-才佳-deepscalper.pptx)  |     |
+| 2024-08-11 | 吴晨帆 | Dify |  [PPT链接]()  |  [视频链接]()   |
+| 2024-08-11 | 龙卫平 | 大语言模型工具学习全面综述 |  [PPT链接]()  |  [视频链接]()   |
 | 2024-08-18 | 王冰琪 | FinGPT: Open-Source Financial Large Language Models |  [PPT链接]()  |  [视频链接]()   |
 | 2024-08-25 | 杨靖智 |  |  [PPT链接]()  |  [视频链接]()   |
+|  | 夏志鸿 | GraphRAG |  [PPT链接]()  |  [视频链接]()   |
+|  | 才  佳 | FinRL: Financial Reinforcement Learning |  [PPT链接]()  |  [视频链接]()   |
 |  | 才  佳 | FinML: A Practical Machine Learning Framework for Dynamic Stock Selection |  [PPT链接]()  |  [视频链接]()   |
 |  | 才  佳 | FinRL: Financial Reinforcement Learning |  [PPT链接]()  |  [视频链接]()   |
 |  | 刘兆峰 | AFAC2024挑战组-赛题四:金融规则长文本中的矛盾识别与漏洞发现 |  [PPT链接]()  |  [视频链接]()   |
@@ -77,7 +79,7 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | DPO：直接偏好优化 | 强化学习 |  [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)    |   [DPO: Direct Preference Optimization 论文解读及代码实践](https://zhuanlan.zhihu.com/p/642569664)、[[论文笔记]DPO：Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://zhuanlan.zhihu.com/p/653975451)、[直接偏好优化算法（Direct Preference Optimization，DPO）](https://blog.csdn.net/chacha_/article/details/134527000)、[DPO: Direct Preference Optimization 直接偏好优化（学习笔记）](https://www.cnblogs.com/lemonzhang/p/17910358.html)、[每日论文速递 [NeurIPS'23 Oral] DPO：Language Model 是一个 Reward Model](https://cloud.tencent.com/developer/article/2400696)、[RLHF的替代之DPO原理解析：从RLHF、Claude的RAILF到DPO、Zephyr](https://www.163.com/dy/article/INKV0ETR05380EIV.html)   |      |
 | JARVIS：微软开源的探索通用人工智能 (AGI) 工具  | Agent | [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580) | [[Github]JARVIS](https://github.com/microsoft/JARVIS)、 |  |
 | LLM 的自动化任务完成评测 | Benchmark | [TaskBench: Benchmarking Large Language Models for Task Automation](https://arxiv.org/abs/2311.18760) | [[Github]TaskBench](https://github.com/microsoft/JARVIS/tree/main/taskbench)、 |  |
-| 通过工具说明增强基于 LLM 的 Agent | Agent | [EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction](https://arxiv.org/abs/2401.06201) | [[Github]EasyTool](https://github.com/microsoft/JARVIS/tree/main/easytool)、 |  |
+| 通过工具说明增强基于 LLM 的 Agent | Agent | [EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction](https://arxiv.org/abs/2401.06201) | [[Github]EasyTool](https://github.com/microsoft/JARVIS/tree/main/easytool) | ✅ |
 | 开源大模型之光：LLaMA | LLM | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971),[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) | [Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/),[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/) | ✅ |
 | FinGPT | LLM、金融 | [FinGPT: Open-Source Financial Large Language Models](https://github.com/AI4Finance-Foundation/FinGPT) |  |  |
 | FinML | LLM、金融 | [FinML: A Practical Machine Learning Framework for Dynamic Stock Selection](https://github.com/AI4Finance-Foundation/FinML) |  |  |
