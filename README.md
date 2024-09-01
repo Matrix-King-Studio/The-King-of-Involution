@@ -62,7 +62,7 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 2024-08-25 | 吴晨帆 | Dify |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240825-吴晨帆-Dify.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1zpHeerE3E/)   |
 | 2024-09-01 | 王冰琪 | AnyText |  [PPT链接]()  |  [视频链接](https://www.bilibili.com/video/BV1rEHee5Ejt/)   |
 | 2024-09-08 | 龙卫平 | 大语言模型工具学习全面综述 |  [PPT链接]()  |  [视频链接]()   |
-| 2024-09-15 | 杨靖智 |  |  [PPT链接]()  |  [视频链接]()   |
+| 2024-09-15 | 杨靖智 | CogVideo和CogVideoX |  [PPT链接]()  |  [视频链接]()   |
 | 2024-09-22 | 夏志鸿 | GraphRAG |  [PPT链接]()  |  [视频链接]()   |
 | 2024-09-29 | 才  佳 | FinGPT: Open-Source Financial Large Language Models |  [PPT链接]()  |  [视频链接]()   |
 | 2024-10-13 | 才  佳 | FinRL: Financial Reinforcement Learning |  [PPT链接]()  |  [视频链接]()   |
