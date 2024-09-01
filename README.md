@@ -16,7 +16,7 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 |-----|------|------|
 | 刘兆峰 |  ⭐⭐⭐    |  |
 | 张顺宝 |  ⭐⭐⭐⭐    |  |
-| 王冰琪 |  ⭐⭐⭐    |  |
+| 王冰琪 |  ⭐⭐⭐⭐    |  |
 | 毛远欣 |  ⭐⭐⭐    |  |
 | 吴晨帆 |  ⭐⭐⭐    |  |
 | 龙卫平 |  ⭐⭐    |  |
@@ -59,13 +59,13 @@ PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 | 2024-07-14 | 毛远欣 | 通过工具说明增强基于 LLM 的 Agent |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240714-毛远欣-EASYTOOL.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1XW421R73p/)   |
 | 2024-07-28 | 张顺宝 | Retrieval Augmented Generation with Citations |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240728-张顺宝-RAG生成引用信息调研.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1R4421U76D/)   |
 | 2024-08-04 | 才  佳 | DeepScalper: A Risk-Aware Reinforcement Learning Framework to Capture Fleeting Intraday Trading Opportunities |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240804-才佳-deepscalper.pptx)  |     |
-| 2024-08-18 | 吴晨帆 | Dify |  [PPT链接]()  |  [视频链接]()   |
-| 2024-08-25 | 王冰琪 | AnyText |  [PPT链接]()  |  [视频链接]()   |
-| 2024-09-01 | 龙卫平 | 大语言模型工具学习全面综述 |  [PPT链接]()  |  [视频链接]()   |
-| 2024-08-25 | 杨靖智 |  |  [PPT链接]()  |  [视频链接]()   |
-|  | 夏志鸿 | GraphRAG |  [PPT链接]()  |  [视频链接]()   |
-|  | 才  佳 | FinGPT: Open-Source Financial Large Language Models |  [PPT链接]()  |  [视频链接]()   |
-|  | 才  佳 | FinRL: Financial Reinforcement Learning |  [PPT链接]()  |  [视频链接]()   |
+| 2024-08-25 | 吴晨帆 | Dify |  [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240825-吴晨帆-Dify.pptx)  |  [视频链接](https://www.bilibili.com/video/BV1zpHeerE3E/)   |
+| 2024-09-01 | 王冰琪 | AnyText |  [PPT链接]()  |  [视频链接](https://www.bilibili.com/video/BV1rEHee5Ejt/)   |
+| 2024-09-08 | 龙卫平 | 大语言模型工具学习全面综述 |  [PPT链接]()  |  [视频链接]()   |
+| 2024-09-15 | 杨靖智 |  |  [PPT链接]()  |  [视频链接]()   |
+| 2024-09-22 | 夏志鸿 | GraphRAG |  [PPT链接]()  |  [视频链接]()   |
+| 2024-09-29 | 才  佳 | FinGPT: Open-Source Financial Large Language Models |  [PPT链接]()  |  [视频链接]()   |
+| 2024-10-13 | 才  佳 | FinRL: Financial Reinforcement Learning |  [PPT链接]()  |  [视频链接]()   |
 |  | 才  佳 | FinML: A Practical Machine Learning Framework for Dynamic Stock Selection |  [PPT链接]()  |  [视频链接]()   |
 |  | 才  佳 | FinRL: Financial Reinforcement Learning |  [PPT链接]()  |  [视频链接]()   |
 |  | 刘兆峰 | AFAC2024挑战组-赛题四:金融规则长文本中的矛盾识别与漏洞发现 |  [PPT链接]()  |  [视频链接]()   |
