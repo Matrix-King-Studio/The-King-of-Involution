@@ -6,13 +6,9 @@
 
 PPT大概25页左右，每页介绍1~2分钟，少字多图多讲。
 
--
-
-读论文的模板：[Paper Read Template](https://glass-croissant-6e7.notion.site/Paper-Read-Template-f6968adfd10c490c8923f1251e03eaf9?pvs=4)
--
-论文分享模板：[科研论文分享模板](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/模板/科研论文分享模板.pptx)
--
-比赛分享模板：[学术比赛分享模板](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/模板/学术比赛分享模板.pptx)
+- 读论文的模板：[Paper Read Template](https://glass-croissant-6e7.notion.site/Paper-Read-Template-f6968adfd10c490c8923f1251e03eaf9?pvs=4)
+- 论文分享模板：[科研论文分享模板](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/模板/科研论文分享模板.pptx)
+- 比赛分享模板：[学术比赛分享模板](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/模板/学术比赛分享模板.pptx)
 
 ## 卷王排行榜
 
