@@ -8,14 +8,14 @@
 
 | 成员   | 分享次数 | 缺勤次数 |
 |------|------|------|
-| 刘兆峰  | ⭐⭐⭐  |      |
-| 张顺宝  | ⭐⭐⭐⭐ | ❌    |
+| 刘兆峰  | ⭐⭐⭐⭐  |      |
+| 张顺宝  | ⭐⭐⭐⭐ |     |
 | 王冰琪  | ⭐⭐⭐⭐ |      |
 | 毛远欣  | ⭐⭐⭐  |      |
 | 吴晨帆  | ⭐⭐⭐  |      |
 | 龙卫平  | ⭐⭐⭐  |      |
-| 杨靖智  | ⭐⭐   | ❌    |
-| 才  佳 | ⭐⭐   | ❌    |
+| 杨靖智  | ⭐⭐   |     |
+| 才  佳 | ⭐⭐   |     |
 
 ## 分享记录
 
@@ -46,13 +46,14 @@
 | 2024-09-01 | 王冰琪  | AnyText                                                                                                       | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240901-王冰琪-AnyText.pptx)                               | [视频链接](https://www.bilibili.com/video/BV1rEHee5Ejt/) |
 | 2024-09-12 | 龙卫平  | 大语言模型工具学习全面综述                                                                                                 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240912-龙卫平-大语言模型工具学习综述论文分享.pptx)                       | [视频链接](https://www.bilibili.com/video/BV1rZ4HeoEsN/) |
 | 2024-09-15 | 杨靖智  | CogVideo和CogVideoX                                                                                            | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20240915-杨靖智-CogVideo和CogVideoX.pptx)                                                                                                                                   | [视频链接](https://www.bilibili.com/video/BV179mVYcEfY/)                                             |
-| 2024-09-29 | 刘兆峰  | Stable Diffusion                                                                                              | [PPT链接]()                                                                                                                                   | [视频链接]()                                             |
-| 2024-09-29 | 才  佳 | FinGPT: Open-Source Financial Large Language Models                                                           | [PPT链接]()                                                                                                                                   | [视频链接]()                                             |
-| 2024-10-13 | 才  佳 | FinRL: Financial Reinforcement Learning                                                                       | [PPT链接]()                                                                                                                                   | [视频链接]()                                             |
-|            | 才  佳 | FinML: A Practical Machine Learning Framework for Dynamic Stock Selection                                     | [PPT链接]()                                                                                                                                   | [视频链接]()                                             |
-|            | 才  佳 | FinRL: Financial Reinforcement Learning                                                                       | [PPT链接]()                                                                                                                                   | [视频链接]()                                             |
-|            | 刘兆峰  | AFAC2024挑战组-赛题四:金融规则长文本中的矛盾识别与漏洞发现                                                                            | [PPT链接]()                                                                                                                                   | [视频链接]()                                             |
-|            |      |                                                                                                               | [PPT链接]()                                                                                                                                   | [视频链接]()                                             |
+| 2024-10-28 | 刘兆峰  | 比赛方案分享：AFAC2024挑战组-赛题三：AIGC金融多模态研究报告智能生成 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/20241018-刘兆峰-AFAC2024金融智能创新大赛答辩.pptx) | [视频链接](https://www.bilibili.com/video/BV1wgS8YpEvV/)|
+| 2024-11-04 | 才佳  | 路径规划：蒙特卡洛搜索 | [PPT链接]() | [视频链接]()|
+| 2024-11-11 | 毛远欣  | 腾讯《王者荣耀》觉悟AI模型浅析 | [PPT链接]() | [视频链接]()|
+| 2024-11-18 | 吴晨帆  | LongCite: 让LLM在长上下文问答中生成细粒度引用 | [PPT链接]() | [视频链接]()|
+| 2024-11-25 | 龙卫平  | AutoGLM | [PPT链接]() | [视频链接]()|
+| 2024-12-02 | 杨靖智  | 快手可灵视频生成模型 | [PPT链接]() | [视频链接]()|
+| 2024-12-09 | 刘兆峰  | Stable Diffusion | [PPT链接]() | [视频链接]()|
+| 2024-12-16 | 才  佳  |  | [PPT链接]() | [视频链接]()|
 
 ## 候选题目
 
