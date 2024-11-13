@@ -11,7 +11,7 @@
 
 | 日期 | 分享人 | 主题  | PPT   | 视频   |
 |------------|------------|------------|------------|------------|
-| 2024-12-07 |   |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Web/)  | [视频链接]() |
-| 2024-12-14 |   |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Web/)  | [视频链接]() |
+| 2024-12-07 | 知识图谱可视化平台  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Web/)  | [视频链接]() |
+| 2024-12-14 | 小程序微信登录  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Web/)  | [视频链接]() |
 | 2024-12-21 |   |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Web/)  | [视频链接]() |
 | 2024-12-28 |   |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Web/)  | [视频链接]() |
