@@ -56,6 +56,7 @@
 | 2024-12-09 | 张  妍  | LongReward：利用 AI 反馈改进长文本大语言模型 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/) | [视频链接]()|
 | 2024-12-16 | 才  佳  |  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/) | [视频链接]()|
 | 2024-12-23 | 刘兆峰  | Stable Diffusion | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/) | [视频链接]()|
+|  | 毛远欣  | The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/) | [视频链接]()|
 
 ## 候选题目
 
