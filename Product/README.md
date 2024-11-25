@@ -27,7 +27,7 @@
 | 2024-11-01 |   |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
 
 
-##  注
+## 注
 分享完后如何进行PPT和视频的归档：
-1、进入Product/PPT文件价，点击upload，将文件拖拽上传，如果PPT文件过大转成pdf格式
-2、编辑markdown文件[如何编写 md文档](https://blog.csdn.net/u013181595/article/details/80676590)
+    1、进入Product/PPT文件价，点击upload，将文件拖拽上传，如果PPT文件过大转成pdf格式
+    2、编辑markdown文件[如何编写 md文档](https://blog.csdn.net/u013181595/article/details/80676590)
