@@ -28,6 +28,7 @@
 
 
 ## 注
-分享完后如何进行PPT和视频的归档：
-    1、进入Product/PPT文件价，点击upload，将文件拖拽上传，如果PPT文件过大转成pdf格式
-    2、编辑markdown文件[如何编写 md文档](https://blog.csdn.net/u013181595/article/details/80676590)
+分享完后进行PPT和视频的归档：
+1、进入Product/PPT文件价，点击upload，将文件拖拽上传，如果PPT文件过大转成pdf格式
+</br>
+2、编辑markdown文件[如何编写 md文档](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
