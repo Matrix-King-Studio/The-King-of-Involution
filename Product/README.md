@@ -19,7 +19,7 @@
 | 2024-11-01 | 魏  慈  | 百度文心智能体平台介绍  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/20241103-魏慈-百度文心智能体平台功能分享.pptx)                              | [视频链接](https://www.bilibili.com/video/BV1G3D5Y8EVr/) |
 | 2024-11-24 | 龙卫平  |  AutoGLM | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT//)  | [视频链接]() |
 | 2024-12-01 | 高晨贺  |  视频生成模型合成视频  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
-| 2024-12-08 | 饶利天  |  ComfyUI | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
+| 2024-12-15 | 饶利天  |  ComfyUI | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
 | 2024-11-01 |   |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
 | 2024-11-01 |   |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
 | 2024-11-01 |   |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
