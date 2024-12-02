@@ -14,7 +14,7 @@
 | 毛远欣  | ⭐⭐⭐  |      |
 | 吴晨帆  | ⭐⭐⭐  |      |
 | 龙卫平  | ⭐⭐⭐  |      |
-| 杨靖智  | ⭐⭐   |     |
+| 杨靖智  | ⭐⭐⭐   |     |
 | 才  佳 | ⭐⭐⭐   |     |
 | 张  妍 |   |     |
 
@@ -52,7 +52,7 @@
 | 2024-11-11 | 毛远欣  | 腾讯《王者荣耀》觉悟AI模型浅析 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/20241111-毛远欣-腾讯王者荣耀觉悟AI模型浅析.pptx) | [视频链接](https://www.bilibili.com/video/BV1mgmWYgEzp/)|
 | 2024-11-19 | 吴晨帆  | LongCite: 让LLM在长上下文问答中生成细粒度引用 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
 | 2024-11-25 | 龙卫平  | AutoGLM                                  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
-| 2024-12-02 | 杨靖智  | 快手可灵视频生成模型                        | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
+| 2024-12-02 | 杨靖智  |   3D Shape Variational Autoencoder Latent Disentanglement via Mini-Batch Feature Swapping for Bodies and Faces| [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
 | 2024-12-09 | 张  妍  | LongReward：利用 AI 反馈改进长文本大语言模型 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
 | 2024-12-16 | 才  佳  |  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
 | 2024-12-23 | 刘兆峰  | Stable Diffusion | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
