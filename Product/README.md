@@ -26,10 +26,10 @@
 | 2024-12-15 | 王靖宇  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
 | 2024-12-22 | 饶利天  |  ComfyUI | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
 | 2024-12-29 | 王文杰  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
-| 2024-01-05 | 刘润杉  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
-| 2024-01-12 | 贾淑媛  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
-| 2024-01-17 | 王孙上  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
-
+| 2025-01-05 | 刘润杉  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
+| 2025-01-12 | 贾淑媛  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
+| 2025-01-17 | 王孙上  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
+| 2025-01-24 | 高晨贺  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
 
 ## 注
 分享完后进行PPT和视频的归档：
