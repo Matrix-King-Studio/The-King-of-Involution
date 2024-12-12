@@ -60,4 +60,5 @@
 | 2024-12-16 | 杨靖智  |  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
 | 2024-12-16 | 杨靖智  |  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
 | 2024-12-16 | 才  佳  |  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
-| 2024-12-16 | 才  佳  |  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
+| 2024-12-16 | 张  妍  | LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
+
