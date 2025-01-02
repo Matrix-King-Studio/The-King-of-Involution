@@ -14,7 +14,7 @@
 | 毛远欣  | ⭐⭐⭐  |      |
 | 吴晨帆  | ⭐⭐⭐  |      |
 | 杨靖智  | ⭐⭐⭐⭐   |     |
-| 才  佳 | ⭐⭐⭐   |     |
+| 才  佳 | ⭐⭐⭐⭐   |     |
 | 张  妍 | ⭐  |     |
 
 ## 分享记录
@@ -49,10 +49,10 @@
 | 2024-10-28 | 刘兆峰  | 比赛方案分享：AFAC2024挑战组-赛题三：AIGC金融多模态研究报告智能生成 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/20241018-刘兆峰-AFAC2024金融智能创新大赛答辩.pptx) | [视频链接](https://www.bilibili.com/video/BV1wgS8YpEvV/)|
 | 2024-11-04 | 才佳  | 路径规划：蒙特卡洛搜索 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/20241104-才佳-蒙特卡洛搜索.pptx) | [视频链接](https://www.bilibili.com/video/BV1FRDVY3Evo/)|
 | 2024-11-11 | 毛远欣  | 腾讯《王者荣耀》觉悟AI模型浅析 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/20241111-毛远欣-腾讯王者荣耀觉悟AI模型浅析.pptx) | [视频链接](https://www.bilibili.com/video/BV1mgmWYgEzp/)|
-| 2024-11-19 | 吴晨帆  | LongCite: 让LLM在长上下文问答中生成细粒度引用 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
+| 2024-11-19 | 吴晨帆  | LongCite: 让LLM在长上下文问答中生成细粒度引用 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接](https://www.bilibili.com/video/BV1X96zY6EFA/)|
 | 2024-12-02 | 杨靖智  |   3D Shape Variational Autoencoder Latent Disentanglement via Mini-Batch Feature Swapping for Bodies and Faces| [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/20241202-杨靖智-3DShapeVariationalAutoencoder.pptx) | [视频链接](https://www.bilibili.com/video/BV1CV6MYqEtB/)|
 | 2024-12-09 | 张  妍  | LongReward：利用 AI 反馈改进长文本大语言模型 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/20241208-张妍-LongRewar利用AI反馈改进长上下文大型语言模型.pptx) | [视频链接](https://www.bilibili.com/video/BV1dskEYoEms/)|
-| 2024-12-23 | 才  佳  | Multi-Modal Fusion for Autonomous Driving: A Survey | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/20241223-才佳-自动驾驶多模态融合.pptx) | [视频链接]()|
+| 2024-12-23 | 才  佳  | Multi-Modal Fusion for Autonomous Driving: A Survey | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/20241223-才佳-自动驾驶多模态融合.pptx) | [视频链接](https://www.bilibili.com/video/BV167kXY8EN2/)|
 | 2024-12-30 | 刘兆峰  | Stable Diffusion | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
 |  | 毛远欣  | The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
 | 2024-12-16 | 杨靖智  | 腾讯 HunyuanVideo | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
