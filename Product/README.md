@@ -25,7 +25,7 @@
 | 2024-12-01 | 高晨贺  |  视频生成模型合成视频  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接](https://www.bilibili.com/video/BV1KM66YwETD/) |
 | 2025-01-19 | 王靖宇  |  Open Interpreter | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
 | 2025-01-26 | 高晨贺  |  无界宇宙项目经验分享  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
-| 2024-12-22 | 饶利天  |  ComfyUI | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
+| 2024-12-22 | 饶利天  |  Dify 使用详细介绍 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
 | 2024-12-29 | 王文杰  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
 | 2025-01-05 | 刘润杉  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
 | 2025-01-12 | 贾淑媛  |   | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
