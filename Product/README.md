@@ -21,7 +21,7 @@
 |------------|------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
 | 2024-10-11 | 饶利天  | Agent 简介与大模型开发介绍  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/20241011-饶利天-Agent简介与大模型开发介绍.pptx)                              | [视频链接](https://www.bilibili.com/video/BV1sK2RYnEKg/) |
 | 2024-11-01 | 魏  慈  | 百度文心智能体平台介绍  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/20241103-魏慈-百度文心智能体平台功能分享.pptx)                              | [视频链接](https://www.bilibili.com/video/BV1G3D5Y8EVr/) |
-| 2024-11-24 | 龙卫平  |  AutoGLM初尝试 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接](https://www.bilibili.com/video/BV1yg66YfETt/) |
+| 2024-11-24 | 龙卫平  |  AutoGLM初尝试 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/20241124-龙卫平-autoglm.pdf)  | [视频链接](https://www.bilibili.com/video/BV1yg66YfETt/) |
 | 2024-12-01 | 高晨贺  |  视频生成模型合成视频  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接](https://www.bilibili.com/video/BV1KM66YwETD/) |
 | 2025-01-19 | 王靖宇  |  Open Interpreter | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
 | 2025-01-26 | 高晨贺  |  无界宇宙项目经验分享  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Product/PPT/)  | [视频链接]() |
