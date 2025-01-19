@@ -12,7 +12,7 @@
 
 | 日期 | 分享人 | 主题  | PPT   | 视频   |
 |------------|------------|------------|------------|------------|
-| 2025-01-17 | 微信小程序登录开发 | 郑越 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Web/Frontend/微信小程序一键登录分享讲义.md)  | [视频链接]() |
+| 2025-01-17 | 微信小程序登录开发 | 郑越 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Web/Frontend/PPT/微信小程序一键登录分享讲义.md)  | [视频链接]() 
 | 2025-01-22 | 无界宇宙业务逻辑项目开发分享 | 郑越 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Web/)  | [视频链接]() |
 | 2025-02-12 | 无界宇宙 WebSocket 开发分享 | 郑越 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Web/)  | [视频链接]() |
 | 2025-02-19 | 知识图谱可视化平台项目分享  | 郑越 | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/Web/)  | [视频链接]() |
