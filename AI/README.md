@@ -55,7 +55,6 @@
 | 2024-12-23 | 才  佳  | Multi-Modal Fusion for Autonomous Driving: A Survey | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/20241223-才佳-自动驾驶多模态融合.pptx) | [视频链接](https://www.bilibili.com/video/BV167kXY8EN2/)|
 | 2024-12-16 | 刘兆峰  | VideoScore | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
 | 2024-12-16 | 张  妍  | LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
-| 2024-12-16 |   |  | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
 | 2024-12-16 | 毛远欣  | The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
 | 2024-12-16 | 杨靖智  | 腾讯 HunyuanVideo | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
 | 2024-12-16 | 杨靖智  | ImageInWords: Unlocking Hyper-Detailed Image Descriptions | [PPT链接](https://github.com/Matrix-King-Studio/The-King-of-Involution/raw/master/AI/PPT/) | [视频链接]()|
